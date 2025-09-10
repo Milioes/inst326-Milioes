@@ -1,0 +1,20 @@
+AI Usage Journal
+Emilio Sanchez San Martin
+esanc101@terpmail.umd.edu
+Section 0201
+Week 1
+
+For this week, I used AI to help me learn about the different job opportunities 
+around the UMD campus. I am in the process of finding job opportunities, and wanted
+to look for some around campus. It's crucial to understand the different types of
+jobs offered at the campus and want more background, specifically in the food places
+on campus. Here is my AI chat link: 
+https://chatgpt.com/share/68c1a427-65a4-8011-afe0-05dca0aaf52a
+
+I also used AI to help me find more information on a CS50 class I was taking over
+the summer to prepare for Python programming! I have not had any big experiences
+using Python before or worked on projects with Python, so I wanted to
+get more background knowledge with Python by taking the course. I wanted to understand
+if I could get a certificate; however, I wasn't sure, and wanted to clarify that I
+could get a certificate after completing the course. Below is the AI chat link:
+https://chatgpt.com/share/68c1a4f0-449c-8011-a085-9e67e0b40e6b
