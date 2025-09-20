@@ -18,3 +18,19 @@ get more background knowledge with Python by taking the course. I wanted to unde
 if I could get a certificate; however, I wasn't sure, and wanted to clarify that I
 could get a certificate after completing the course. Below is the AI chat link:
 https://chatgpt.com/share/68c1a4f0-449c-8011-a085-9e67e0b40e6b
+
+Week 2
+
+This week, I wanted to learn more about music possibilities around the UMD campus.
+I wanted to find places that I would be able to go to to learn, and find people who
+share the same interests as me. I know that UMD has a lot to offer, and I wanted
+to find ways that students like myself can try and learn to make music on campus
+It was just something I wanted to look into. Here is the link to my AI chat:
+https://chatgpt.com/share/68ce2f6d-8410-8011-89b9-8dfaee11cd87
+
+Other than that, I also used AI to help me a bit with ideas for INST314, because
+As I was listening to lectures, I got lost on a few issues with binomials and
+wanted to be sure I understood how binomials in data actually work. Since I am
+learning a lot about data science, I want to be sure I understand my professors
+lectures, and sometimes I like to use AI in order to help me understand something
+I may have missed, and that is important to me.
