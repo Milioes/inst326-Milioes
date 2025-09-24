@@ -34,3 +34,22 @@ wanted to be sure I understood how binomials in data actually work. Since I am
 learning a lot about data science, I want to be sure I understand my professors
 lectures, and sometimes I like to use AI in order to help me understand something
 I may have missed, and that is important to me.
+
+Week 3
+
+Throughout the week, there was a career fair going on! At UMD, a lot of tech companies
+came to UMD to discuss with other students about opportunities for internships, job
+opportunities, and connections/networking opportunities. When I went, I wanted to
+learn more about a specific tech company called "ManTech". They are a tech and
+government contract company that helps the government in different departments
+and creates tools using code. Below is the link to the AI chat I asked to learn more:
+https://chatgpt.com/share/68d3ffa4-f1dc-8011-8f31-97bd2f615e27
+
+Also, just yesterday, I asked ChatGPT about a really interesting query, because I was
+chatting with a "Marine Officer" about taking courses to be in the Marines and 
+work later in the future after I finish my degree at UMD. However, when I received a
+Weird message saying I have to fill out information from a public source/company,
+and get a message with an address from an office no one can find online... I was
+hesitant. I asked ChatGPT for more information if it could find anything with the
+information I gave it. Below you can see the link to the AI chat to know more:
+https://chatgpt.com/share/68d40065-288c-8011-8657-c46b53b57b8d 
