@@ -180,12 +180,34 @@ going to the gym and exercise, I was really curious and wanted to understand mor
 using ChatGPT. Here is the text below I got:
 https://chatgpt.com/share/691cf412-e2dc-8011-b276-51637467d76d
 
-I really wanted to understnad the meaning behind Thanksgiving this week as well. With this
+I really wanted to understand the meaning behind Thanksgiving this week as well. With this
 holiday coming along, I was curious. I was talking to this about one of my friends today, and
-we realized that we didn't fully understand the context of thanks giving and why it was made
+we realized that we didn't fully understand the context of Thanksgiving and why it was made
 and celebrated. I needed to know this, and I wanted a simple way to understand the reason why
-thanks giving is a major holiday and we the United States celebrate it each year. I learned
+Thanksgiving is a major holiday and we tin he United States celebrate it each year. I learned
 more information and understood why after reading what it was about in the chat. Below is the
 chat: https://chatgpt.com/share/691cf45d-fe58-8011-af36-430941d0aaa4
 
- 
+(Thanks giving break)
+
+Week 12
+
+I was at the gym the other day again, and I wanted to understand more about how to work the chest
+I usually do triceps and chest each day, and I wanted to do a certain exercise that involved
+using cables. However, I needed to figure out how to work the lower chest, since it was my main
+target. I wanted to cable fly crossovers, and I understood from up to down, I can work the lower
+chest. Chat AI has told me to keep my elbows bent slightly, and that way I can bring cables down 
+and target the lower chest. Below is the AI chat:
+https://chatgpt.com/share/692f25d3-3c24-8011-a1ce-bafef079b828
+
+While working on a project for a database, I was working with the Montgomery County Crime dataset. 
+I wanted to find something a bit interesting. There are Police District names depending on a 
+sector, beat, and PRA, names for different locations, and I wanted to figure out how I could find 
+the district name based on those values, since there was missing data in the raw data I was 
+working with. Anyway, as I was working, I tried to find it on Google first, but could not find 
+information. I then retrieved information about different types of police districts and tried to 
+use this as well. For the AI, I tried asking if it could identify the MCPD district based on the 
+values. The chat to the AI link is below:
+https://chatgpt.com/share/692f28bf-c190-8011-acbd-d08892dee76d
+
+
